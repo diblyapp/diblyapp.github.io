@@ -1,0 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Serif+Pro:700);
+body {
+    background: url("http://imgur.com/5S82Aq8");
+    background-size: cover;
+    font-family: 'Source Serif Pro', Serif;
+}
+hr{
+	width: 200px;
+}
+
